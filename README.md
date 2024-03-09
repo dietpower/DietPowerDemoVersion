@@ -1,6 +1,6 @@
-
-![](icon.png)
-
+<p align="center">
+<img src="icon.png" width="200" height="200">
+  
 ## DietPower
 Our history dates back to February 2024, when we (Sara, Sadegh, Arsalan, and Hesam) participated in the YouNovel community to elevate our software engineering skills. In the course of a project, **DietPower** was born to <ins>help you plan a healthy diet</ins>.
 
